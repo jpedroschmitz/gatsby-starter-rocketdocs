@@ -4069,9 +4069,9 @@ default-gateway@^4.2.0:
     ip-regex "^2.1.0"
 
 defer-to-connect@^1.0.1:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/defer-to-connect/-/defer-to-connect-1.1.2.tgz#10aac87c9d9bd3c92b03ded222f93f83a19b6d19"
-  integrity sha512-pEsi2ZYLO+GroqxmPjoeKoxgZLIm4pUr6YLghbMAHXpu2vwgo910E5yfUWY39jE8zZFkhPUX4IIeWxzPxzQ1DA==
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/defer-to-connect/-/defer-to-connect-1.1.3.tgz#331ae050c08dcf789f8c83a7b81f0ed94f4ac591"
+  integrity sha512-0ISdNousHvZT2EiFlZeZAHBUvSxmKswVCEf8hW7KWgG4a8MVEu/3Vb6uWYozkjylyCxe0JBIiRB1jV45S70WVQ==
 
 define-properties@^1.1.2, define-properties@^1.1.3:
   version "1.1.3"
