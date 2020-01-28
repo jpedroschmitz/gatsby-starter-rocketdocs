@@ -1267,7 +1267,7 @@
     react-lifecycles-compat "^3.0.4"
     warning "^3.0.0"
 
-"@rocketseat/gatsby-theme-docs@*":
+"@rocketseat/gatsby-theme-docs@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-1.0.0.tgz#eaf46803247fd7c9dee8b3f27957cd20d56c722e"
   integrity sha512-PDXMH1VxWFR9RRXBnKPDbypAcKCZZgis3H7oOosNckeqTO2rArf4sKTCJ++N/YNHWhZcJhlIjgb19nS4JFALxg==
