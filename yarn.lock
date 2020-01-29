@@ -1268,9 +1268,9 @@
     warning "^3.0.0"
 
 "@rocketseat/gatsby-theme-docs-core@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs-core/-/gatsby-theme-docs-core-1.0.1.tgz#ec796ff942e56a3bda3e83c2a6bd98b2fa962a66"
-  integrity sha512-HvhX4zKGBDBUKXyERylDityUFJPnzZNjpYnh7gX61+uyHG01jcXnMZhiPBWEKKjQddkxyWjhxeHSa6ydpgSHmA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs-core/-/gatsby-theme-docs-core-1.0.2.tgz#376ac60c6758a640e4b81f03e42e229fc103b3ab"
+  integrity sha512-ijMFlI2Sp0fiNcsw34R/eY9U5OEdp7QecVSp7g9TlLMlZBrMPjdGzcM2MT/1BA+BG5G7Uxg+j4ZdOyIzFVGtLQ==
   dependencies:
     "@mdx-js/mdx" "^1.5.5"
     gatsby-plugin-mdx "^1.0.67"
@@ -1285,9 +1285,9 @@
     gatsby-transformer-yaml "^2.2.23"
 
 "@rocketseat/gatsby-theme-docs@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.0.1.tgz#5d3b64ee81544778af53f179dcb39568471c874f"
-  integrity sha512-YJ7cDqhTrjqB6hb9YVI8jCC7Y+VNCutm9eq1eo8PFDA8YdHZ1JBGFU8DCzTZoNU8LcP8elFrarvCsUU2WpccKw==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.0.2.tgz#8f9b651d76e8a16526c4c06a74c8c4b4e5981397"
+  integrity sha512-caqJGFlxpfCaBvnnCs0pp8ezlZucNzn3XTYnvMrmy5pnLNTiRnWPK5LysXfz5hXFlkoxrOaQnDfxl81YhN4tLA==
   dependencies:
     "@mdx-js/react" "^1.5.5"
     "@rocketseat/gatsby-theme-docs-core" "^1.0.1"
