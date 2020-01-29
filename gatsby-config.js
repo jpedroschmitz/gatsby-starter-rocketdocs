@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `@rocketseat/gatsby-theme-docs`,
     siteTitleShort: `gatsby-theme-docs`,
     siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketseat.github.io/gatsby-starter-rocket-docs`,
+    siteUrl: `https://rocketdocs.netlify.com`,
     siteAuthor: `@rocketseat`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
@@ -17,7 +17,6 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        basePath: `gatsby-starter-rocket-docs`,
       },
     },
     {
@@ -35,13 +34,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // trackingId: 'YOUR_GOOGLE_ANALYTICS_TRACKING_ID',
+        trackingId: `UA-99997611-9`,
       },
     },
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketseat.github.io/gatsby-starter-rocket-docs`,
+        siteUrl: `https://rocketdocs.netlify.com`,
       },
     },
     `gatsby-plugin-offline`,
