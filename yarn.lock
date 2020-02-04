@@ -1382,9 +1382,9 @@
     gatsby-transformer-yaml "^2.2.23"
 
 "@rocketseat/gatsby-theme-docs@*":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.0.4.tgz#6724e12baf3fcbda6878f54fe1a6a2402069110d"
-  integrity sha512-JgdgaoHuAMbjdQo4ubFLFrYIP2vWKGmcgJfJejoVVspfus95stfXmSWuEGi8bzKV7tvtDx7sanxD4kux1iNhbA==
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.0.5.tgz#0eddfab806806bcce7b4006b9db29818a9ca8540"
+  integrity sha512-YI7dfd3Ndc3h+7Xd15X6r1DyDyO5TVWALMYKn6FbZo2oP44ejTe8kypGeQyk2wB+FRA1cU1qcCwl0zVqme1gtA==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@emotion/styled" "^10.0.27"
