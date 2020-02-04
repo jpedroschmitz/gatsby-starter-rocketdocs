@@ -1381,7 +1381,7 @@
     gatsby-transformer-sharp "^2.3.13"
     gatsby-transformer-yaml "^2.2.23"
 
-"@rocketseat/gatsby-theme-docs@*":
+"@rocketseat/gatsby-theme-docs@^2.0.5":
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.0.5.tgz#0eddfab806806bcce7b4006b9db29818a9ca8540"
   integrity sha512-YI7dfd3Ndc3h+7Xd15X6r1DyDyO5TVWALMYKn6FbZo2oP44ejTe8kypGeQyk2wB+FRA1cU1qcCwl0zVqme1gtA==
