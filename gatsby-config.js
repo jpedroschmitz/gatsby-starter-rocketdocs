@@ -9,7 +9,6 @@ module.exports = {
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#7159c1`,
-    basePath: `/`,
     footer: `Theme by Rocketseat`,
   },
   plugins: [
@@ -18,8 +17,6 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
       },
     },
     {
@@ -37,7 +34,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // trackingId: ``,
+        trackingId: `UA-99997611-9`,
       },
     },
     {
