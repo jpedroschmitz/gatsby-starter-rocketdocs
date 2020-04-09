@@ -1495,9 +1495,9 @@
     gatsby-transformer-yaml "^2.2.23"
 
 "@rocketseat/gatsby-theme-docs@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.1.1.tgz#26808c93e368fbc495b617ba55a7e0e80ece1c07"
-  integrity sha512-s9CSUZyjidHIUV30xY6w2GcR6xaJzPFOhCd5kczxTgRpEtqwOLlYYGh76jLCvwZNdDZitrr+n4jpz1vBfeCMzg==
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.1.2.tgz#caaea8fc4fce7099d1ff519a977555bb9d076862"
+  integrity sha512-zC0fquMV+KmEjjCojqIrrSFHy0YJ+OBirF2I/PD/sQp0f9vCoaqu4tDfZiTWimJdHrHniDuE+E794k8av9Fv9Q==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@emotion/styled" "^10.0.27"
@@ -1515,7 +1515,6 @@
     react-helmet "^5.2.1"
     react-icons "^3.8.0"
     react-live "^2.2.2"
-    slug "^2.1.1"
     url-join "^4.0.1"
 
 "@sindresorhus/is@^0.14.0":
@@ -12167,13 +12166,6 @@ slice-ansi@^3.0.0:
     astral-regex "^2.0.0"
     is-fullwidth-code-point "^3.0.0"
 
-slug@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/slug/-/slug-2.1.1.tgz#08df390d4b4d51bafb41ac0067c0c2dd70734ef2"
-  integrity sha512-yNGhDdS0DR0JyxnPC84qIx/Vd01RHVY4guJeBqBNdBoOLNWnzw5zkWJvxVSmsuUb92bikdnQFnw3PfGY8uZ82g==
-  dependencies:
-    unicode ">= 0.3.1"
-
 slugify@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.4.0.tgz#c9557c653c54b0c7f7a8e786ef3431add676d2cb"
@@ -13358,11 +13350,6 @@ unicode-property-aliases-ecmascript@^1.0.4:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.1.0.tgz#dd57a99f6207bedff4628abefb94c50db941c8f4"
   integrity sha512-PqSoPh/pWetQ2phoj5RLiaqIk4kCNwoV3CI+LfGmWLKI3rE3kl1h59XpX2BjgDrmbxD9ARtQobPGU1SguCYuQg==
-
-"unicode@>= 0.3.1":
-  version "12.1.0"
-  resolved "https://registry.yarnpkg.com/unicode/-/unicode-12.1.0.tgz#7ee53a7a0ca5539b353419432823d8da58bbbf33"
-  integrity sha512-Ty6+Ew21DiYTWLYtd05RF/X4c1ekOvOgANyHbBj0h3MaXpfaGr2Rdmc0hMFuGQLyPLb9cU4ArNxl0bTF5HSzXw==
 
 unified@8.4.2, unified@^8.4.2:
   version "8.4.2"
