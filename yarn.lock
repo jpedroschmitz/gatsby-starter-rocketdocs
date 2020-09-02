@@ -1753,7 +1753,7 @@
   dependencies:
     tslib "^2.0.0"
 
-"@rocketseat/gatsby-theme-docs-core@^1.1.1":
+"@rocketseat/gatsby-theme-docs-core@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs-core/-/gatsby-theme-docs-core-1.2.0.tgz#2593d1ce7d766db52095214bac905e143384b46c"
   integrity sha512-H2xPmJNCqFhJFcbI7JXqDqOUcUFxi5urKdOBRiIa6ec9vFPeVAMpoUKHOcKdX944xBvMp7chEhWQCkWuaWFhjw==
@@ -1772,14 +1772,14 @@
     url-join "^4.0.1"
 
 "@rocketseat/gatsby-theme-docs@latest":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.2.0.tgz#2d5175802290795fe735c0940b82fac6b11109a1"
-  integrity sha512-BiztrQ2RD2SrctavNfLzAwTNEx8R1yPP/LmZs5WC6PD2HVdYjRZy+UQTX4VUa4rCpSrRtRWU7RD+3sVy9plHwQ==
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.2.1.tgz#d7b48201a15aeacf8051de784a5c2617f0ca57a4"
+  integrity sha512-D1tIVk0gsRg6a6a50DTFUdzZs0RD45Wibe3sg+kONuwZ9JeHJ/SwT6+WOK3iOKl/RdYEMqZkWfcVcEHJu9Pv+g==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@emotion/styled" "^10.0.27"
     "@mdx-js/react" "^1.6.16"
-    "@rocketseat/gatsby-theme-docs-core" "^1.1.1"
+    "@rocketseat/gatsby-theme-docs-core" "^1.2.0"
     emotion-theming "^10.0.27"
     gatsby-plugin-catch-links "^2.1.24"
     gatsby-plugin-emotion "^4.1.21"
