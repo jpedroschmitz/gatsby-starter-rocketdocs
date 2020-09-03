@@ -1772,9 +1772,9 @@
     url-join "^4.0.1"
 
 "@rocketseat/gatsby-theme-docs@latest":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.2.2.tgz#b553e437adbca241b7949e8786987c122efe88a8"
-  integrity sha512-DYy23cjASuzIhuJCBMv3HzaJFsPfNnX13qq520E9XvGLbmmt+Y6lYUKMYLvJepvaxRGGmgvU8vYWiwtQjocYOw==
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@rocketseat/gatsby-theme-docs/-/gatsby-theme-docs-2.2.3.tgz#a95c6fe007ea187d2780c42903693e3527aa3f68"
+  integrity sha512-kMkVgVJqaxLAgQfimDWCf1XN5tKRcBC8wPoqvCKJUSdzulb8ycy2gZF7lj+C6ZLVmczbPNZB/PFIQp1Mz+56lQ==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@emotion/styled" "^10.0.27"
