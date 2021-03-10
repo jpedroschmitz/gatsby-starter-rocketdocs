@@ -4,20 +4,21 @@ module.exports = {
     defaultTitle: `Rocket Docs`,
     siteTitleShort: `Rocket Docs`,
     siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
+    siteUrl: `https://rocketdocs.netlify.app`,
     siteAuthor: `@rocketseat`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
   },
+  flags: { PRESERVE_WEBPACK_CACHE: true },
   plugins: [
     {
       resolve: `@rocketseat/gatsby-theme-docs`,
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
+        repositoryUrl: `https://github.com/rocketseat/gatsby-themes`,
         baseDir: `examples/gatsby-theme-docs`,
       },
     },
@@ -33,12 +34,12 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // trackingId: ``,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: `YOUR_ANALYTICS_ID`,
+    //   },
+    // },
     `gatsby-plugin-remove-trailing-slashes`,
     {
       resolve: `gatsby-plugin-canonical-urls`,
